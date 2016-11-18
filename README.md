@@ -1,2 +1,2 @@
-konni er hér
+#Verkefni Kristinns
 
