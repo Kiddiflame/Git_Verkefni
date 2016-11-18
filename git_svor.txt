@@ -1,1 +1,7 @@
 Git spurningar og svör
+
+1) cd: go to a directory
+   cd ~: returns the user to the previous current directory and reports on a new line the absolute      pathname of that directory.
+   ls: list the files contained
+   pwd: shows the current directory
+   mkdir: creates a directory
