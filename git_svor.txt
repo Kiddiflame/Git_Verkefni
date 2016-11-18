@@ -13,3 +13,5 @@ Git spurningar og svör
    git checkout: Switches to the specified branch and updates the working directory
 
 3) git diff shows the differences not yet staged, while git diff --staged shows file differences between staging and the last file version, and git diff "commit 1" "commit 2" shows the differences between two branches
+
+4) Version control systems are a category of software tools that help a software team manage changes to source code over time.
