@@ -5,3 +5,9 @@ Git spurningar og svör
    ls: list the files contained
    pwd: shows the current directory
    mkdir: creates a directory
+
+2) git clone: Downloads a project and its entire version history
+   git log: Lists version history for the current branch
+   git status: Lists all new or modified files to be commited
+   git diff: Shows file differences not yet staged
+   git checkout: Switches to the specified branch and updates the working directory
