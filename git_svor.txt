@@ -15,3 +15,6 @@ Git spurningar og svör
 3) git diff shows the differences not yet staged, while git diff --staged shows file differences between staging and the last file version, and git diff "commit 1" "commit 2" shows the differences between two branches
 
 4) Version control systems are a category of software tools that help a software team manage changes to source code over time.
+
+
+5) Helstu kostir við að nota git er að nokkrir eða margir geta unnið við sama verkefni án þess að vera á sama stað, og einnig er hægt að nota kóða frá öðrum eins og þarf
