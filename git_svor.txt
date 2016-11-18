@@ -18,3 +18,5 @@ Git spurningar og svör
 
 
 5) Helstu kostir við að nota git er að nokkrir eða margir geta unnið við sama verkefni án þess að vera á sama stað, og einnig er hægt að nota kóða frá öðrum eins og þarf
+
+6) hugsa ég að ætti að kommitta í hvert skipti sem breyting á kóða sé gerð
