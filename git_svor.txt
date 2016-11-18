@@ -27,3 +27,5 @@ Git spurningar og svör
    The staging area is a file, generally contained in your Git directory, that stores information about what will go into your next commit. It’s sometimes referred to as the “index”, but it’s also common to refer to it as the staging area.
     
    The Git directory is where Git stores the metadata and object database for your project. This is the most important part of Git, and it is what is copied when you clone a repository from another computer.
+
+8) Gott er að nota greinar þegar er að vinna í mismunandi brotum verkefnisins og maður getur einbeitt sig á einn hlut í einu.   
